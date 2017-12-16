@@ -15,3 +15,8 @@
 
 * I use Fork, which you can find at https://git-fork.com/
 * There are other tools out there, I just like this one. 
+
+## Branches and Merging
+* Branches are bookmarks 
+* The implementation is a file with a hash
+* you can check out the tree .git folder
